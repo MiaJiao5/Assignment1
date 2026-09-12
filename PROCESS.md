@@ -8,3 +8,6 @@ I leveraged AI to elevate my vocabulary to a more academic register. Where my or
 
 ## What I Rejected and Why:
 I rejected AI-generated content marked by meaningless repetition, overexpansion, or fabrication. This filler material strayed from my core argument and resulted in redundant, generic prose. I cross-checked outputs from different AI tools against my own understanding to edit and rewrite these sections, ensuring every line supports my perspecives.
+
+## Improvement and reflection
+For future work, I plan to compose initial drafts directly in English to avoid possible semantic loss in Chinese–English translation.
