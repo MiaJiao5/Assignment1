@@ -3,11 +3,9 @@
 ## Tools and Their Purposes:
 In the process of drafting and polishing this essay, I combined multiple AI tools to assist at different stages:
 
-**Gemini and VS Code Chat AI: 
-Used for translating the initial Chinese drafts into English, followed by a word-by-word comparison against my original meaning to trim redundant terms and refine phrasing.
+Gemini and VS Code Chat AI: Used for translating the initial Chinese drafts into English, followed by a word-by-word comparison against my original meaning to trim redundant terms and refine phrasing.
 
-**Doubao: 
-Utilized in its writing mode after the English draft took shape, helping to polish the text with a more academic tone and providing diverse options for smoother sentence structures.
+Doubao: Utilized in its writing mode after the English draft took shape, helping to polish the text with a more academic tone and providing diverse options for smoother sentence structures.
 
 Self-Revision and Final Verification: Throughout the process, AI served strictly as an assisting tool for generation and polishing. All core arguments, initial drafting, and final semantic checks were independently completed by me. I compared feedback from different models to ensure the final version faithfully matched my original intent.
 
